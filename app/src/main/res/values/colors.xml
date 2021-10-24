@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="lowDarkfont"  >#5D070E07</color>
+    <color name="whitebackground"  >#d4d3d3</color>
+    <color name="colorThemePink">#ED2173</color>
+    <color name="colorPrimaryDrk">#222934</color>
+    <color name="colorAccent">#ED2173</color>
+
+    <color name="colorThemeOrange">#F4442d</color>
+    <color name="colorPrimaryText">#222934</color>
+    <color name="colorSecondaryText">#989898</color>
+
+
+    <color name="colorSnackBarSuccess">#8BC34A</color>
+    <color name="colorSnackBarError">#F72400</color>
+
+    <color name="colorLightGrey">#F1F1F1</color>
+
+    <color name="colorBorder">#E8E6E6</color>
+    <color name="colorDarkGrey">#878787</color>
+
+
+
+    <color name="Light_blue">#44DDFF</color>
+    <color name="Dark_blue">#2f9ab2</color>
+    <color name="sky_light">#d9f8ff</color>
+    <color name="sky">#a1eeff</color>
+    <color name="mof">#d9d0ea</color>
+    <color name="mof1">#a18aca</color>
+    <color name="dark_mof">#431596</color>
+    <color name="black_mof">#351078</color>
+
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+
+    <color name="gray">#d4d3d3d3</color>
+    <color name="blue">#1DA1F2</color>
+
+</resources>
